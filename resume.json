@@ -1,0 +1,169 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "Skills",
+    "awards": "",
+    "education": "Education",
+    "work": "Work Experience",
+    "projects": "Projects"
+  },
+  "basics": {
+    "email": "alittle1092@gmail.com",
+    "location": {
+      "address": "Brisbane"
+    },
+    "name": "Alexander Little",
+    "website": "https://alexander-little.netlify.app/"
+  },
+  "education": [
+    {
+      "institution": "Australian Institute Of Technology",
+      "location": "Brisbane, QLD",
+      "area": "Information Technology",
+      "studyType": "Diploma",
+      "startDate": "2018",
+      "endDate": "2019",
+      "gpa": ""
+    },
+    {
+      "institution": "Tafe QLD",
+      "studyType": "Diploma",
+      "area": "Web Development",
+      "startDate": "2015",
+      "endDate": "2016",
+      "location": "Brisbane, QLD"
+    }
+  ],
+  "work": [
+    {
+      "company": "Entain Group",
+      "location": "Brisbane, QLD",
+      "position": "Senior Platform Engineer",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "Present",
+      "highlights": [
+        "Core member of the core React Native platform team, responsible for the development, maintenance, and enhancement of Entain's mobile applications.",
+        "Led the creation of Entain's design system from scratch, collaborating with the design team to establish visual and interaction guidelines, resulting in a consistent user experience across all products.",
+        "Implemented various features and projects using React Native, improving overall application performance.",
+        "Fostered strong collaboration with cross-functional teams, including product management, design, and QA, to ensure the delivery of high-quality, reliable, and user-friendly mobile applications.",
+        "Led the migration of our Tab NZ Brand a major project and multi million dollar deal"
+      ]
+    },
+    {
+      "highlights": [
+        "Developed and maintained scalable web applications, utilizing Vue.js, Golang, and other cutting-edge technologies.",
+        "Demonstrated strong problem-solving skills and adaptability by quickly learning and implementing new technologies, contributing to the successful launch of three major projects during the tenure.",
+        "Participated in agile development methodologies, including daily stand-ups and sprint planning, ensuring timely delivery of features and efficient resource allocation.",
+        "Streamlined the development process by actively participating in code reviews and sharing best practices, reducing bug count."
+      ],
+      "company": "GVC Group",
+      "position": "Software Engineer",
+      "location": "Brisbane, QLD",
+      "startDate": "2018",
+      "endDate": "2020"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "React",
+        "Vue.js"
+      ],
+      "name": "Front End"
+    },
+    {
+      "keywords": [
+        "React Native",
+        "SwiftUI IOS",
+        "Kotlin"
+      ],
+      "name": "Native Development"
+    },
+    {
+      "keywords": [
+        "TypeScript/Javascript",
+        "Golang",
+        "Node.js"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "MySQL",
+        "FireBase",
+        "Supabase"
+      ],
+      "name": "Database"
+    },
+    {
+      "keywords": [
+        "AWS",
+        "K8s"
+      ],
+      "name": "Cloud"
+    },
+    {
+      "keywords": [
+        "Great Communicator",
+        "Fast Learning",
+        "Likeable"
+      ],
+      "name": "Soft Skills"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ethereum",
+      "keywords": [
+        "Typescript",
+        "React",
+        "Gatsby",
+        "Chakra UI",
+        ""
+      ],
+      "description": "Ethereum is a decentralized blockchain platform that enables the creation of smart contracts and decentralized applications (DApps).",
+      "url": "https://ethereum.org/en/"
+    },
+    {
+      "keywords": [
+        "Appscript",
+        "Typescript",
+        "React",
+        "Javascript"
+      ],
+      "name": "WiseSheets",
+      "description": "Wisheets is a startup out of Canada that is creating investing apps for google sheets and excel",
+      "url": "https://www.wisesheets.io/"
+    },
+    {
+      "keywords": [
+        "Typescript",
+        "wagmi.js",
+        "Solidity",
+        "Scaffold.eth"
+      ],
+      "name": "Crypto Lottery ",
+      "description": "A small lottery app i built in order to learn solidity",
+      "url": "https://crypto-lottery-ffap.netlify.app/"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
